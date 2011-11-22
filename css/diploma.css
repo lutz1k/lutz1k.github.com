@@ -1,0 +1,8 @@
+﻿body {font-family: "Helvetica Neue", Arial, sans-serif;}
+input[type="text"] {width:100%;}
+
+#sample {display:none;}
+#input {width:100%; height:300px;}
+
+#todo {color:#777;}
+#correct {color:#00ff00;}
